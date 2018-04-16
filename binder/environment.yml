@@ -1,5 +1,3 @@
 name: pythonTraining
 channels:
   - defaults
-dependencies:
-  - readline=7.0=hc1231fa_4
