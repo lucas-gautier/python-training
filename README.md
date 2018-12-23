@@ -1,4 +1,5 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/djvaughn/python-training/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/djvaughn/python-training/master)
+
 # Python Training
 This github repo contains jupyter notebooks that are design to be a crash course of python.  This repo also contains the environment yaml file.  This repo is intended to be used in tandem with [![my binder](https://mybinder.org)
 
