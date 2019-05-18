@@ -1,7 +1,14 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/djvaughn/python-training/master)
+# Intro to Python
+## *Welcome!*
 
-# Python Training
-This github repo contains jupyter notebooks that are design to be a crash course of python.  This repo also contains the environment yaml file.  This repo is intended to be used in tandem with [![my binder](https://mybinder.org)
+This repository is a collection of Jupyter Notebooks that will guide you through some programming concepts in python. The project is designed to be accessible via a web brower leveraging [mybinder.org](https://mybinder.org/) 
+
+## About Jupyter Notebooks
+This repo uses Juptyer Notebooks, a web-based interactive environment for writing code using (```.ipynb```) files. These files are used to render a Juputer Notebook, either locally or remote, to see in real-time the code being written. [Read more about Jupyter Notebooks here.](https://github.com/jupyter/notebook)
+
+## Opening the Notebook Files
+Launch the notebook => 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lucas-gautier/python-training/master)
 
 ## Agenda
 
@@ -15,6 +22,8 @@ This github repo contains jupyter notebooks that are design to be a crash course
 05. **Lists**
 06. **Tuples**
 07. **Sets and Booleans**
+
+### Day 2
 08. **Dictionaries**
 09. **Data Structure Exam**
 10. **IF, ELIF, ELSE Statements**
